@@ -1,8 +1,8 @@
 name: s_container
 description: A simple container.
 version: 0.0.1
-author:
-homepage:
+author: shelvis
+homepage: https://github.com/GodShelvis/s_container
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

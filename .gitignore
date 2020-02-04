@@ -1,7 +1,16 @@
 .DS_Store
 .dart_tool/
-
+ios
+android
 .packages
 .pub/
 
 build/
+# Misc
+node_modules
+.idea/
+*.log
+local.properties
+.vscode/settings.json
+local.properties
+Generated.xcconfig
